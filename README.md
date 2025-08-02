@@ -79,12 +79,6 @@ More models can be added easily via LangChain’s `Ollama` interface.
 
 ---
 
-## 📷 UI Preview
-
-> ![Screenshot of Streamlit Chatbot](https://via.placeholder.com/600x350.png?text=Chatbot+UI+Preview)
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! If you'd like to add support for more models or features, feel free to open an issue first to discuss what you would like to change.
