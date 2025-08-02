@@ -1,0 +1,11 @@
+langchain-openai
+pandas
+numpy
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain_groq
+langchain_chroma
+langchain_huggigngface
